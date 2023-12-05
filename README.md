@@ -19,7 +19,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - 💥: I am also learning Front-End, especially `HTML&CSS` along with `JavaScript` . 
 
-- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or litiers3@gmail.com
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or litiers3@mail.com
 
 ---
 
@@ -69,13 +69,13 @@
 		</td>
 		<td>Programming Basics with C#</td>
 		<td>
-      <a href="https://softuni.bg/certificates/details/166899/6ec48fa7">Advanced</a>
+      <a href="https://softuni.bg/certificates/details/173530/9ca0c79f">Advanced</a>
  </td>
 		<td>C# Advanced</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/certificates/details/173530/9ca0c79f" target="blank">Fundamentals</a>
+			<a href="https://softuni.bg/certificates/details/166899/6ec48fa7">Fundamentals</a>
 		</td>
 		<td>Programming Fundamentals with C#</td>
 		<td>
@@ -85,10 +85,12 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/certificates/details/185839/6d08eb8c" target="blank">MS SQL</a>
+			<a href="https://softuni.bg/certificates/details/185839/6d08eb8c">MS SQL</a>
 		</td>
 		<td>MS SQL</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/194142/f1016e7c">Entity Framework Core</a>
+		</td>
 		<td>Entity Framework Core</td>
 	</tr>
 	<tr>
