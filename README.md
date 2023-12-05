@@ -14,12 +14,12 @@
 
 - :telescope: I’m student at [Software University](https://softuni.bg/)
 - :student: I’m currently learning `Software Engineering`.
-- ⚡: Learning `Csharp`.
+- ⚡ Learning `Csharp`.
 - :nerd_face: Always `learning new things`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- 💥: I am also learning Front-End, especially `HTML&CSS` along with `JavaScript` . 
+- 💥 I am also learning Front-End, especially `HTML&CSS` along with `JavaScript` . 
 
-- :mailbox:How to reach me:[LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or litiers3@mail.com 
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or litiers3@mail.com 
 
 ---
 
