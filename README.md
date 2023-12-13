@@ -49,7 +49,7 @@
 
 ---
 
- ### :fire: My Stats :
+ ### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiroslavIvanov8&theme=blueberry)](https://git.io/streak-stats)
 
 
