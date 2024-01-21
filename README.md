@@ -19,7 +19,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - 💥 I am also learning Front-End, especially `HTML&CSS` along with `JavaScript` . 
 
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or litiers3@mail.com 
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/miroslav-ivanov-969321263/) or ivanov8.work@gmail.com 
 
 ---
 
