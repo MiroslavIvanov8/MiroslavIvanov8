@@ -104,7 +104,9 @@
 			<a href="https://softuni.bg/certificates/details/206730/eb3567f9">ASP.NET Fundamentals</a>
 		</td>
 		<td>ASP.NET Fundamentals</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/214181/9d5a074b">ASP.NET Advanced</a>
+		</td>
 		<td>ASP.NET Advanced</td>
 	</tr>
 		</table>
