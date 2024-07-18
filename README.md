@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">Entity Framework Core</a>
+			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">HTML & CSS</a>
 		</td>		
 		<td>HTML & CSS</td>
 		<td>Soon</td>
