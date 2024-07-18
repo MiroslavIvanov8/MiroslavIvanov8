@@ -94,7 +94,9 @@
 		<td>Entity Framework Core</td>
 	</tr>
 	<tr>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">Entity Framework Core</a>
+		</td>		
 		<td>HTML & CSS</td>
 		<td>Soon</td>
 		<td>JS Front-End</td>
