@@ -97,9 +97,9 @@
 		<td>
 			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">HTML & CSS</a>
 		</td>		
-		<td>HTML & CSS</td>
+		<td>JS Front-End</td>
 		<td>
-			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">HTML & CSS</a>
+			<a href="https://softuni.bg/certificates/details/223967/c094a77c">HTML & CSS</a>
 		</td>
 		<td>JS Front-End</td>
 	</tr>
