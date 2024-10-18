@@ -98,7 +98,9 @@
 			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">HTML & CSS</a>
 		</td>		
 		<td>HTML & CSS</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/Certificates/Details/218566/340784d1">HTML & CSS</a>
+		</td>
 		<td>JS Front-End</td>
 	</tr>
 	<tr>
@@ -107,7 +109,7 @@
 		</td>
 		<td>ASP.NET Fundamentals</td>
 		<td>
-			<a href="https://softuni.bg/certificates/details/214181/9d5a074b">ASP.NET Advanced</a>
+			<a href="https://softuni.bg/certificates/details/223967/c094a77c">ASP.NET Advanced</a>
 		</td>
 		<td>ASP.NET Advanced</td>
 	</tr>
